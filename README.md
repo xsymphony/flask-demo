@@ -27,4 +27,4 @@
 
 ## 预览
 
-![]
+![](https://github.com/xiongsyao/StudentBMS/blob/master/static/view.jpg)
