@@ -13,9 +13,9 @@
 `pip install -r requirements.txt`
 
 ## 运行：
-1. 如果删除了data.sqlite，需执行`python app.py init`
+1. 更新数据库：`python app.py db upgrade`
 
-2. 更新数据库：`python app.py db upgrade`
+2. 生成管理员用户：`python app.py init`
 
 3. 运行：`python app.py runserver`
 
